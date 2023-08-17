@@ -10,8 +10,7 @@
 			const theme = localStorage.getItem('color-scheme')
 
 			theme
-				?document.documentElement.setAttribute
-				('color-scheme', theme)
+				? document.documentElement.setAttribute('color-scheme', theme)
 				: localStorage.setItem('color-sheme', 'dark')
 		</script>
 	</head>
