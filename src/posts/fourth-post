@@ -1,6 +1,6 @@
 ---
-title: Third post
-dexcription: THird Post.
+title: Fourth post
+dexcription: Fourth Post.
 date: '2023-8-18'
 categories:
     -sveltkit
@@ -10,10 +10,7 @@ published: true
 
 ## Markdown
 
-Hey Friends 💖
+Hey Friends  Alhamdulilah💖
 
-```ts
-function greet(name: string){
-    console.log(`Hey ${name}! 💖`)
-}
+```
 ```
