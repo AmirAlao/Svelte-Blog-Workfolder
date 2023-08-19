@@ -1,7 +1,7 @@
 ---
 title: Third post
-dexcription: THird Post.
-date: '2023-8-18'
+description: Third Post.
+date: '2023-8-17'
 categories:
     -sveltkit
     -svelte

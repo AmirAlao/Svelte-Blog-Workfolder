@@ -1,6 +1,6 @@
 ---
 title: First post
-dexcription: First Post.
+description: First Post.
 date: '2023-8-12'
 categories:
     -sveltkit

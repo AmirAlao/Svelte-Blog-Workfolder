@@ -1,6 +1,6 @@
 ---
 title: Fourth post
-dexcription: Fourth Post.
+description: Fourth Post.
 date: '2023-8-18'
 categories:
     -sveltkit
