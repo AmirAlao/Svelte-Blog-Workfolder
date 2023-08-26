@@ -56,6 +56,13 @@ html {
 		--surface-4: var(--surface-4-light);
 		--background: var(--background-light);
 		--border: var(--border-light);
+
+		 /* Background for Light Theme */
+		 --background: none; /* Remove any solid background color */
+		 background-image: url('./rose.jpg'); /* Add light background image */
+		 background-repeat: no-repeat;
+		 background-size: cover; /* Adjust to your preference */
+		 background-attachment: fixed;
 	}
 }
 
@@ -71,6 +78,13 @@ html {
 	--surface-4: var(--surface-4-dark);
 	--background: var(--background-dark);
 	--border: var(--border-dark);
+
+	/* Background for Dark Theme */
+	--background: none; /* Remove any solid background color */
+	background-image: url('./unsplash.jpg'); /* Add dark background image */
+	background-repeat: no-repeat;
+	background-size: cover; /* Adjust to your preference */
+	background-attachment: fixed;
 }
 
 [color-scheme='light'] {
@@ -85,6 +99,12 @@ html {
 	--surface-4: var(--surface-4-light);
 	--background: var(--background-light);
 	--border: var(--border-light);
+
+	--background: none; /* Remove any solid background color */
+	background-image: url('./rose.jpg'); /* Add light background image */
+	background-repeat: no-repeat;
+	background-size: cover; /* Adjust to your preference */
+	background-attachment: fixed;
 }
 
 html,
