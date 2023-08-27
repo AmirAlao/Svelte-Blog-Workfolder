@@ -10,18 +10,10 @@ published: true
 
 ## Title: "Luminous Soul: Bathing in the Light of the Divine"
 
-"He is so full of life!" - "She takes my breath away" - "I don't know what to do…" - "Nah, I'm gonna get mine."
-
-Our souls go through ups and downs. Your moods, feelings and intrinsic thoughts generally tell you how healthy you are as a person. The closer an object is to a light source, the brighter it shines, the further away it is, the darker it becomes. 
-
-Needless to say. What is more radiant than our sun? The layman may say nothing. The learned man may say we have plenty of stars brighter in our galaxy. My answer to them is my Creator is brighter. Light upon Light. Words pale to describe the beauty and Magnificence of our creator.  The brightest light
-.
-Light upon Light. Words pale to describe the beauty and Magnificence of our creator.  The brightest light - The source of all and everything that sparkles. There is no beauty in the world except it originates from him. How close are you to this light source?
-
-In the still, dark night—amid silence, when others forsake thought of their Creator—within the final third, He descends to the lowest heavens, attuned to His servants' cries.
-
-Ask yourself: When was the last time you  bathed in this brilliance? When did you last savour this sweetness? That ache within, a soul's cry for cleansing—to bathe in the light from whence it came. Respond, do not withhold.
-
-Your essence, blessed. Each drawn breath, each shed tear, each ache— all reach him.  Who else, in your darkest hour, to turn to? The pain in your chest, soul's yearning for cleansing, for immersion in the light from which it sprung—answer the call. Do not deny it.
-
-Open your heart to the radiance, embrace its warmth. Your journey unfolds where shadows dissipate and brilliance reigns.
+In life's ebb and flow, our souls journey through peaks and valleys. Your inner world—moods, emotions, thoughts—unveils your well-being's portrait. Proximity to light dictates brilliance; distance, darkness.
+No doubt, what outshines the sun? Some might say, "Nothing." Others, "Countless stars brighter in our sky." My retort: my Creator surpasses all. Light upon Light. Mere words dim before His magnificence. The brightest light...
+Light upon Light. The brightest light — the source of all sparkle. Earth's beauty traces back to Him. How near are you to this brilliance?
+In the hushed night, amidst others' neglect, during the final watch, He descends to the lowest heavens, attentive to His servants' pleas.
+Ask yourself: When last did you bask in this brilliance? When did you last taste this sweetness? That inner ache, a soul's plea for purity—to bathe in the light of its origin. Respond, don't shy away.
+Your essence, blessed. Every inhale, each teardrop, every pang—He senses all. When darkness engulfs, who else to seek? That chest pang, soul's craving for cleansing, for immersion in its light—heed the call.
+Unseal your heart to radiance; embrace its warmth. Here, a journey unfurls, shadows dissipate, and brilliance reigns.
